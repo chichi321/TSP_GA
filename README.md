@@ -3,9 +3,9 @@
 
 ## Input: city-48.csv
 ## Output: result-48.txt
-"
+'''
 POP_SIZE                  每一代个体数  
 ELITE_SIZE                保留的精英个体数量  
 MUTATE_RATE               基因变异概率  
 N_GENERATIONS             生成子代数量  
-"
+'''
